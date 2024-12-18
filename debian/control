@@ -9,6 +9,5 @@ Homepage: https://github.com/Nitrux/firmware-ar3k-nitrux
 
 Package: firmware-ar3k-nitrux
 Architecture: amd64
-Conflicts: firmware-ar3k-graphics
 Description: Firmware files for ar3k.
  This package includes firmware for ar3k, a bluetooth driver for AR3012.
