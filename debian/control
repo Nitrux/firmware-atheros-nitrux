@@ -1,0 +1,14 @@
+Source: firmware-ar3k-nitrux
+Section: misc
+Priority: optional
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/Nitrux/firmware-ar3k-nitrux
+
+
+Package: firmware-ar3k-nitrux
+Architecture: amd64
+Conflicts: firmware-ar3k-graphics
+Description: Firmware files for ar3k.
+ This package includes firmware for ar3k, a bluetooth driver for AR3012.
