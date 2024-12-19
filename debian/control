@@ -1,4 +1,4 @@
-Source: firmware-ar3k-nitrux
+Source: firmware-atheros-nitrux
 Section: misc
 Priority: optional
 Maintainer: Uri Herrera <uri_herrera@nxos.org>
@@ -7,7 +7,8 @@ Standards-Version: 3.9.6
 Homepage: https://github.com/Nitrux/firmware-ar3k-nitrux
 
 
-Package: firmware-ar3k-nitrux
+Package: firmware-atheros-nitrux
 Architecture: amd64
-Description: Firmware files for ar3k.
- This package includes firmware for ar3k, a bluetooth driver for AR3012.
+Conflicts: firmware-ath9k-htc, firmware-atheros
+Description: Firmware files for Qualcomm Atheros.
+ This package includes firmware for various Atheros devices.

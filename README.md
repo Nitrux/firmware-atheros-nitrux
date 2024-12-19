@@ -1,6 +1,6 @@
-# Firmware for AR3012
+# Firmware for Qualcom Atheros devices
 
-Firmware files for ar3k, a bluetooth driver for AR3012.
+Firmware files for various Qualcom Atheros devices.
 
 # Issues
 If you find problems with the contents of this repository please create an issue.

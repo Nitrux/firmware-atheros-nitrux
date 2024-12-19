@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: firmware-ar3k-nitrux
-Source: https://github.com/Nitrux/firmware-ar3k-nitrux.git
+Upstream-Name: firmware-atheros-nitrux
+Source: https://github.com/Nitrux/firmware-atheros-nitrux.git
 
 Files: *
 Copyright: 2017 Uri Herrera <uri_herrera@nxos.org>
